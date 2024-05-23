@@ -7,6 +7,8 @@
   - [Repository](https://github.com/iamzammad/SE-Group-4/tree/main/employ-net) <b><i></b></i>
   - [Deployed Website](https://employnet.onrender.com/) <b><i></b></i>
 
+- <b>Full Stack Trading Application (MERN stack + Socket.io)</b>
+  - [Repository](https://github.com/raahemn/trading-app-mern) <b><i></b></i>
 
 
 <h2> 🤳 Connect with me:</h2>
