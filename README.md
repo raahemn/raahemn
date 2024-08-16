@@ -7,6 +7,15 @@
   - [Repository](https://github.com/iamzammad/SE-Group-4/tree/main/employ-net) <b><i></b></i>
   - [Deployed Website](https://employnet.onrender.com/) <b><i></b></i>
 
+- <b>Image Storage and Search Engine Portal (FastAPI, React TS, Firestore, Pinecone Vector DB)</b>
+  - [Repository](https://github.com/raahemn/image-search-engine) <b><i></b></i>
+  - [Deployed Website](https://imsfrontend-ujhoe434ua-uc.a.run.app/) <b><i></b></i>
+
+- <b>AI (Stable Diffusion) Avatar Generator (Express TS, EJS, Firestore, Runpod) </b>
+  - [Repository](https://github.com/raahemn/avatar-generator) <b><i></b></i>
+  - [Deployed Website](https://avatars-ujhoe434ua-uc.a.run.app/) <b><i></b></i>
+  
+
 - <b>Full Stack Trading Application (MERN stack + Socket.io)</b>
   - [Repository](https://github.com/raahemn/trading-app-mern) <b><i></b></i>
 
