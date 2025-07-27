@@ -3,7 +3,7 @@ I am a full-stack developer with specialized experience in AI integration.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Full Stack Log Tracking Application (MERN, FluentBit, Redis, BullMQ)</b>
+- <b>Full Stack Log Tracking Application (MERN, Oracle JET VDOM, FluentBit, Redis, BullMQ)</b>
   - [Repository](https://github.com/Hadia-Junaid/log-tracker) <b><i></b></i>
 
 - <b>AI (Stable Diffusion) Avatar Generator (Express TS, EJS, Firestore, Runpod) </b>
