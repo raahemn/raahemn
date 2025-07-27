@@ -11,11 +11,11 @@
 
 - <b>Image Storage and Search Engine Portal (FastAPI, React TS, Firestore, Pinecone Vector DB)</b>
   - [Repository](https://github.com/raahemn/image-search-engine) <b><i></b></i>
-  - [Deployed Website](https://imsfrontend-ujhoe434ua-uc.a.run.app/) <b><i></b></i>
+  - [Deployed Website (Link Expired)](https://imsfrontend-ujhoe434ua-uc.a.run.app/) <b><i></b></i>
 
 - <b>AI (Stable Diffusion) Avatar Generator (Express TS, EJS, Firestore, Runpod) </b>
   - [Repository](https://github.com/raahemn/avatar-generator) <b><i></b></i>
-  - [Deployed Website](https://avatars-ujhoe434ua-uc.a.run.app/) <b><i></b></i>
+  - [Deployed Website (Link Expired)](https://avatars-ujhoe434ua-uc.a.run.app/) <b><i></b></i>
 
 - <b>RAG Based Chrome Extension for YouTube Video Chat (FastAPI React, Tailwind, HuggingFace) </b>
   - [Repository](https://github.com/raahemn/vid-query) <b><i></b></i>
